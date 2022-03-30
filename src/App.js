@@ -1,9 +1,10 @@
 import './App.css';
+import NotesList from './NotesList';
 
 function App() {
   return (
-    <div className="App">
-     
+    <div className="container">
+     <NotesList />
     </div>
   );
 }
