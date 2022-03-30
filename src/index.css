@@ -15,4 +15,7 @@ code {
 
 .note {
   background-color: #fef68a ;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  padding: 1rem
 }
