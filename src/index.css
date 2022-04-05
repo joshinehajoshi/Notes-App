@@ -20,4 +20,6 @@ code {
   padding: 1rem;
   min-height: 170px;
   display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
